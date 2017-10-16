@@ -1,2 +1,2 @@
 # Leetcode-database-problems-solutions
-My solution code to Leetcode database problems.
+My SQL code to [Leetcode](https://leetcode.com/problemset/database/) database problems.
